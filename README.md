@@ -1,6 +1,10 @@
-# LLMs-for-Text-Classification-Generation-and-Summarization
+# RAG-Finetuning-Summarization-Generation-and-Classification-using-LLMs
 
 The above .ipynb notebooks contain the code for the respective LLM tasks.
+
+RAG:
+1. Used ChromaDB, Gemini and Langchain to perform retrieval augmented generation and answer questions on a folder of research papers.
+2. Simply modify the code containing the path to the research papers and run the script.
 
 Text Classification: 
 1. Fine-tuned the Distilbert model for emotion classification.
